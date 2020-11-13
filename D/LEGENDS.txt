@@ -1,0 +1,36 @@
+					Supplemented Tables
+Table S1: The information of DEGs associated the host response of SARS-CoV-2, Ebola, H1N1, MERS-CoV, and SARS-CoV viral infections.
+Table S2: The Venn analysis results of DEGs and GO terms uniquely shared across of SARS-CoV-2, Ebola, H1N1, MERS-CoV, and SARS-CoV viral infections.
+Table S3: Selected gene enrichment analysis of uniquely shared group of genes across the host response of SARS-CoV-2, Ebola, H1N1, MERS-CoV, and SARS-CoV viral infections.
+Table S4: The gene expression information of DEGs that SARS-CoV-2 share with the studied infectious diseases.
+Table S5: Selected gene enrichment analysis of uniquely shared group of GO terms across the host response of SARS-CoV-2 and studied viral infections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Main Figures
+Figure 1 : Significant DEGs across the 5 gene profiles , corresponding genes, chromosome locations, gene expression  and significance scores. The DEGs related genes and chromosomal location (A). The DEGs information regarding host response of  SARS-CoV-2 (B), Ebola (C), MERS-CoV (D) , H1N1 (E) and SARS-CoV (F) viral infections. The pvalues were scaled were scaled across gene profiles according to maximum and minimum values. The circles size and color is linked to DEGs significance and gene expression (LogFC) scores, respectively.
+Figure 2 : Analysis of the gene enrichment of DEGs correlated with the host response to SARS-CoV-2. Categories of GO terms (A), significance scores (-10log-pvalue) (B), and number of associated DEGs (C). The SARS-CoV-2-associated DEGs genes (D), status across the studied infectious diseases (E) , and selected linked GO terms (F).
+Figure 3: The Venn analysis of viral associated genes. The number of uniquely shared genes associated with the host response across SARS-CoV-2, Ebola, H1N1, MERS-CoV, and SARS-CoV viral infections.
+Figure 4: The Venn analysis of viral associated Go terms. The number of uniquely shared GO terms of genes associated with the host response across SARS-CoV-2, Ebola, H1N1, MERS-CoV, and SARS-CoV viral infections.
+Figure 5: The PPI interaction network of genes associated with SARS-CoV-2. The PPI interaction of host expressed genes under SARS-CoV-2 infection. Genes shared between SARS-CoV-2 and Ebola, H1N1, MERS-CoV, and SARS-CoV are highlighted are colored according to diseases. The gene node size is relative to its interaction activity. Gene are collected in different groups according to their level of activity. 
+Figure 6: The PPI interaction network and gene enrichment analysis of highly interactive genes associated with SARS-CoV-2. 
+
+
+					Supplemented Figures
+Figure S1 : The PPI network and gene enrichment analysis of the 173 genes that characterized the host response of SARS-CoV-2.
+Figure S2: The PPI network and gene enrichment analysis of the 58 genes that are unquely shared between COVID -19 and Ebola viral infections .
+Figure S3 : The PPI network and gene enrichment analysis of the 51 genes that are unquely shared between SARS-CoV-2 and MERS-CoV viral infections.
+Figure S4 : The PPI network and gene enrichment analysis of the 31 genes that are unquely shared between SARS-CoV-2, Ebola, and MERS-CoV  viral infections.
+Figure S5 : The gene expression heatmap of genes SARS-CoV-2 shares with different viral infections.
+Figure S6 : The PPI network and gene enrichment analysis of genes that are differentially expressed across studied viral infections and shared with COVD-19.
